@@ -1,4 +1,4 @@
-# Olá, eu sou o Carlos Vitor! 
+# Carlos Vitor（￣︶￣）↗　 
 
 Desenvolvedor em formação | Ciência da Computação
 
