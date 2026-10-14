@@ -6,8 +6,7 @@ Desenvolvedor em formação | Ciência da Computação
 - 🎓 Cursando **Ciência da Computação** no Centro Universitário São Lucas - AFYA.
 - 💼 Atualmente atuando com **Suporte de T.I e Infraestrutura** na área pública (SEPAT-RO).
 - 🚀 Construindo soluções em automação, desenvolvimento web e explorando o mundo de **DevOps**.
-- 🛠️ Nas horas vagas: Monto e otimizo hardware de PC, exploro jogos (de Resident Evil a Genshin Impact) e acompanho alguns animes.
-
+- 🛠️ Nas horas vagas: Dedico-me a aprofundar meus conhecimentos em novas tecnologias, construir projetos práticos e aprimorar minhas habilidades de programação e  monto e otimizo hardware de PC.
 ### 💻 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <!-- Linguagens -->
