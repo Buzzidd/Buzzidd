@@ -1,4 +1,4 @@
-# Carlos Vitor（￣︶￣）↗　 
+# Carlos Vitor
 
 Desenvolvedor em formação | Ciência da Computação
 
